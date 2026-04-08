@@ -1,1 +1,1 @@
-This a fronyend code of our skillswap project
+This is the frontend code of our skillswap project.
